@@ -1,0 +1,5 @@
+1. cuando una opcion esta selaccionada se deberia ver de alguna manera refrejado en el icono.
+1.2. Al empezar el juego deberia tambien ser seleccionada la opcion que elegio la maquina.
+2. si intentas pinchar en el boton de empezar, en el caso en el que no haya ninguna opcion seleccionada deberia salir un error.
+3.
+4. El boton de empezar se deberia reempazar con el boton de volver a intentar.
